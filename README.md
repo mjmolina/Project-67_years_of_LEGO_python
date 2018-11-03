@@ -1,4 +1,4 @@
-# Project 67 Years of LEGO
+# Project: 67 Years of LEGO
 
 
 This project "EXPLORING 67 YEARS OF LEGO" is part of a course from DATACAMP.
